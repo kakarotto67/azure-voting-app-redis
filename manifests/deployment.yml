@@ -13,4 +13,4 @@ spec:
         - name: azure-vote-front 
           image: acrdefault.azurecr.io/azure-vote-front 
           ports:
-          - containerPort: 8080:80
+          - containerPort: 80
